@@ -1,0 +1,12 @@
+name: MultiplayerIcarus
+version: ${project.version}
+main: me.specnr.multiplayericarus.MultiplayerIcarus
+api-version: 1.16
+authors: [ Specnr ]
+description: Turning the Icarus datapack into a multiplayer Spigot plugin for Minecraft 1.16.4
+website: https://youtube.com/specnr
+commands:
+  icarus:
+    description: Give everyone unbreakable elytras and fireworks!
+  refill:
+    description: Gives the sender more fireworks!
